@@ -9,3 +9,4 @@ a new modification in dev node.
 failure 1 time
 try 2 time
 Creating a new branch is quick AND simple.
+managefor
